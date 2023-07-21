@@ -36,3 +36,15 @@ header {
 #calculator {
     margin: 12%;
 }
+
+#equals {
+    border: 2px solid green;
+    padding: 5%;
+    background-color: green;
+}
+
+#clear {
+    border: 2px solid green;
+    padding: 5%;
+    background-color: green;
+}
