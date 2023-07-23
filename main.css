@@ -14,37 +14,45 @@ header {
 }
 
 .row {
-    border: 2px solid  black;
+    border: 2px solid  lightgreen;
     display: flex;
     justify-content: space-evenly;
+    margin: 15px;
 }
 
 .boxes {
-    border: 2px solid green;
+    border: 2px solid lightgreen;
     padding: 5%;
     background-color: green;
 }
 
 #display {
     border: 2px solid black;
+    padding: 5%;
 }
 
 .box {
     border: 2px solid green;
+    padding: 5%;
+    background-color: green;
 }
 
 #calculator {
     margin: 12%;
+    text-align: center;
+    background-color: green;
+    border: 2px solid green;
 }
 
 #equals {
-    border: 2px solid green;
+    border: 2px solid lightgreen;
     padding: 5%;
     background-color: green;
 }
 
 #clear {
-    border: 2px solid green;
+    border: 2px solid lightgreen;
     padding: 5%;
     background-color: green;
+    margin-right: auto;
 }
